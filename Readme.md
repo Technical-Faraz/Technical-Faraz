@@ -27,6 +27,8 @@
   </tr>
 </table>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jmrchelani&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
