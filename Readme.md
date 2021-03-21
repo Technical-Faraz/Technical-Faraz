@@ -1,3 +1,4 @@
+![Copy of Purple and Green Colorful Modern Technology YouTube Channel Art (18)](https://user-images.githubusercontent.com/60597399/111895494-29a7d580-89d0-11eb-84c6-82739d190e96.png)
 ### Hi there, I'm Faraz Ahmed - Known as Technical Faraz 👋
 ![tf](https://user-images.githubusercontent.com/60597399/111895393-848cfd00-89cf-11eb-8368-0360e3caae05.gif)
 
