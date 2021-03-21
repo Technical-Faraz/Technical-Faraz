@@ -1,5 +1,6 @@
 ### Hi there, I'm Faraz Ahmed - Known as Technical Faraz 👋
-![google-it-support-professional-certificate](https://user-images.githubusercontent.com/60597399/111895042-1c3d1c00-89cd-11eb-8110-16f2a0086b54.png)
+![tf](https://user-images.githubusercontent.com/60597399/111895393-848cfd00-89cf-11eb-8368-0360e3caae05.gif)
+
 
 [![Website](https://img.shields.io/website?label=TechnicalFaraz.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://technicalfaraz.tech/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/technicalfaraz1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TechnicalFaraz1)
