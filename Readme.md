@@ -1,10 +1,11 @@
 [![Copy of Purple and Green Colorful Modern Technology YouTube Channel Art (18)](https://user-images.githubusercontent.com/60597399/111895494-29a7d580-89d0-11eb-84c6-82739d190e96.png)](https://technicalfaraz.tech/)
-
+<div align="center">
 ### Hi there, I'm Faraz Ahmed - Known as Technical Faraz 👋
-
+</div>
+<div align="center">
 [![Website](https://img.shields.io/website?label=TechnicalFaraz.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://technicalfaraz.tech/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/technicalfaraz1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TechnicalFaraz1)
-
+</div>
 ## Want to make this digital world more secure than before for a better future!
 [
 ![introduction-to-cybersecurity-tools-cyber-attacks (1)](https://user-images.githubusercontent.com/60597399/111895867-cf5c4400-89d2-11eb-83a8-e69040cb0849.png)
