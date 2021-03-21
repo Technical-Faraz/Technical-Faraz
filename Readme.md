@@ -1,6 +1,6 @@
 [![Copy of Purple and Green Colorful Modern Technology YouTube Channel Art (18)](https://user-images.githubusercontent.com/60597399/111895494-29a7d580-89d0-11eb-84c6-82739d190e96.png)](https://technicalfaraz.tech/)
 <div align="center">
-### Hi there, I'm Faraz Ahmed - Known as Technical Faraz 👋
+<h3>Hi there, I'm Faraz Ahmed - Known as Technical Faraz 👋</h3>
 </div>
 <div align="center">
 <a href="https://technicalfaraz.tech/"><img src="https://img.shields.io/website?label=TechnicalFaraz.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" /></a>
