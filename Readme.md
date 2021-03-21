@@ -6,7 +6,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/technicalfaraz1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TechnicalFaraz1)
 
 ## Want to make this digital world more secure than before for a better future!
-[![introduction-to-cybersecurity-tools-cyber-attacks](https://user-images.githubusercontent.com/60597399/111895815-5e1c9100-89d2-11eb-936b-f6270fd76083.png)](https://www.youracclaim.com/badges/381cc55c-1e00-47b3-a678-5454932708bf/public_url)
+[
+![introduction-to-cybersecurity-tools-cyber-attacks (1)](https://user-images.githubusercontent.com/60597399/111895867-cf5c4400-89d2-11eb-83a8-e69040cb0849.png)
+](https://www.youracclaim.com/badges/381cc55c-1e00-47b3-a678-5454932708bf/public_url)
 
 - 🔭 I'm doing what I want!
 - 🌱 Try to provide informative material to all for free!
