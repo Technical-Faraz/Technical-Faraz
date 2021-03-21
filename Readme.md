@@ -13,11 +13,11 @@
 ![introduction-to-cybersecurity-tools-cyber-attacks (1)](https://user-images.githubusercontent.com/60597399/111895867-cf5c4400-89d2-11eb-83a8-e69040cb0849.png)
 ](https://www.youracclaim.com/badges/381cc55c-1e00-47b3-a678-5454932708bf/public_url) [![google-it-support-professional-certificate (1)](https://user-images.githubusercontent.com/60597399/111895936-38dc5280-89d3-11eb-9fee-afca715d630f.png)](https://www.youracclaim.com/badges/22d82bbf-0a03-4761-a6ea-88088ca98388/public_url)
 
-- 🔭 I'm doing what I want!
+- :mortar_board: I have a passion of teaching through entertaining way
 - 🌱 Try to provide informative material to all for free!
-- 👯 Trying to develop a platform to collaborate for better future
-- 🥅 Trying to reach at the destination
-- ⚡ Never Waste time 
+- :computer: I am a YouTuber.
+- 🥅 Always try to solve tricky and complicated problems
+- ⚡ Hunger of learning about new Tech
 
 <table>
   <tr>
