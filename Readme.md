@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jmrchelani&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Technical-Faraz&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Connect with me:
 
