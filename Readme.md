@@ -3,9 +3,11 @@
 ### Hi there, I'm Faraz Ahmed - Known as Technical Faraz 👋
 </div>
 <div align="center">
+<a href="https://technicalfaraz.tech/"><img src="https://img.shields.io/website?label=TechnicalFaraz.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" /></a>
+</div>
 [![Website](https://img.shields.io/website?label=TechnicalFaraz.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://technicalfaraz.tech/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/technicalfaraz1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TechnicalFaraz1)
-</div>
+
 ## Want to make this digital world more secure than before for a better future!
 [
 ![introduction-to-cybersecurity-tools-cyber-attacks (1)](https://user-images.githubusercontent.com/60597399/111895867-cf5c4400-89d2-11eb-83a8-e69040cb0849.png)
