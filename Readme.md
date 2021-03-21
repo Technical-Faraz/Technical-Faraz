@@ -6,12 +6,24 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/technicalfaraz1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TechnicalFaraz1)
 
 ## Want to make this digital world more secure than before for a better future!
+[![introduction-to-cybersecurity-tools-cyber-attacks](https://user-images.githubusercontent.com/60597399/111895815-5e1c9100-89d2-11eb-936b-f6270fd76083.png)](https://www.youracclaim.com/badges/381cc55c-1e00-47b3-a678-5454932708bf/public_url)
 
 - 🔭 I'm doing what I want!
 - 🌱 Try to provide informative material to all for free!
 - 👯 Trying to develop a platform to collaborate for better future
 - 🥅 Trying to reach at the destination
 - ⚡ Never Waste time 
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/?username=Technical-Faraz&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Technical-Faraz&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+    </td>
+  </tr>
+</table>
 
 ### Connect with me:
 
