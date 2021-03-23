@@ -1,10 +1,10 @@
-[![Copy of Purple and Green Colorful Modern Technology YouTube Channel Art (18)](https://user-images.githubusercontent.com/60597399/111895494-29a7d580-89d0-11eb-84c6-82739d190e96.png)](https://technicalfaraz.tech/)
+[![Copy of Purple and Green Colorful Modern Technology YouTube Channel Art (18)](https://user-images.githubusercontent.com/60597399/111895494-29a7d580-89d0-11eb-84c6-82739d190e96.png)](https://technicalfaraz.com/)
 <div align="center">
 <h3>Hi folks, I'm Faraz Ahmed - Known as Technical Faraz 👋</h3>
 </div>
 
 <div align="center">
-<a href="https://technicalfaraz.tech/"><img src="https://img.shields.io/website?label=TechnicalFaraz.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" /></a>
+<a href="https://technicalfaraz.com/"><img src="https://img.shields.io/website?label=https://technicalfaraz.com/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" /></a>
 <a href="https://twitter.com/TechnicalFaraz1"><img src="https://img.shields.io/twitter/follow/technicalfaraz1?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
 </div>
 
@@ -42,7 +42,7 @@
 <br />
 
 
-[website]: https://technicalfaraz.tech
+[website]: https://technicalfaraz.com
 [twitter]: https://twitter.com/TechnicalFaraz1
 [youtube]: https://www.youtube.com/channel/UCwO7fKd11Bg8YsL3bSPdcWQ
 [linkedin]: https://www.linkedin.com/in/technicalfaraz/
