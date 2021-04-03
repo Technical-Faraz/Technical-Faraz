@@ -5,7 +5,7 @@
 
 <div align="center">
 <a href="https://technicalfaraz.com/"><img src="https://img.shields.io/website?label=https://technicalfaraz.com/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" /></a>
-<a href="https://twitter.com/TechnicalFaraz1"><img src="https://img.shields.io/twitter/follow/technicalfaraz1?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
+<a href="https://twitter.com/TechnicalFaraz5"><img src="https://img.shields.io/twitter/follow/technicalfaraz1?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
 </div>
 
 ## Want to make this digital world more secure than before for a better future!
