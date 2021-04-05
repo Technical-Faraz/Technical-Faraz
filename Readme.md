@@ -43,6 +43,6 @@
 
 
 [website]: https://technicalfaraz.com
-[twitter]: https://twitter.com/TechnicalFaraz1
+[twitter]: https://twitter.com/TechnicalFaraz5
 [youtube]: https://www.youtube.com/channel/UCwO7fKd11Bg8YsL3bSPdcWQ
 [linkedin]: https://www.linkedin.com/in/technicalfaraz/
