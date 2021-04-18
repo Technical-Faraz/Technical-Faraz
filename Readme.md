@@ -34,6 +34,7 @@
 <details>
   <summary>:trophy:GitHub Trophies</summary>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Technical-Faraz&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=Technical-Faraz&theme=darkhub" />
 </details>
 <h3>Connect with me:</h3>
 
