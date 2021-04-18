@@ -19,21 +19,23 @@
 - 🥅 Always try to solve tricky and complicated problems
 - ⚡ Hunger of learning about new Tech
 <details>
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/?username=Technical-Faraz&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Technical-Faraz&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
-    </td>
-  </tr>
-</table>
+  <summary>:bar_chart:GitHub Stats</summary>
+  <table>
+    <tr>
+      <td align="center" style="padding=0;width=50%;">
+        <img src="https://github-readme-stats.vercel.app/api/?username=Technical-Faraz&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+      </td>
+      <td align="center" style="padding=0;width=50%;">
+        <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Technical-Faraz&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+      </td>
+    </tr>
+  </table>
 </details>
 <details>
+  <summary>:trophy:GitHub Trophies</summary>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Technical-Faraz&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
-### Connect with me:
+<h3>Connect with me:</h3>
 
 [<img align="left" alt="TechnicalFaraz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="TechnicalFaraz | FacebookPage" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
