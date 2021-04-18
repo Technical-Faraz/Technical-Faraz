@@ -18,7 +18,7 @@
 - :computer: I am a YouTuber.
 - 🥅 Always try to solve tricky and complicated problems
 - ⚡ Hunger of learning about new Tech
-
+<details>
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -29,9 +29,10 @@
     </td>
   </tr>
 </table>
-
+</details>
+<details>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Technical-Faraz&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
+</details>
 ### Connect with me:
 
 [<img align="left" alt="TechnicalFaraz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
