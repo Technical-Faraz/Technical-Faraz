@@ -54,4 +54,4 @@
 [youtube]: https://www.youtube.com/channel/UCwO7fKd11Bg8YsL3bSPdcWQ
 [facebook]: https://www.facebook.com/technicalfaraz/
 [instagram]: https://www.instagram.com/technicalfaraz/
-[linkedin]: https://www.linkedin.com/in/technicalfaraz/
+[linkedin]: https://www.linkedin.com/company/technical-faraz
